@@ -1,4 +1,26 @@
-body { 
-    color: green;
-    background: yellow;
+html {
+    color: #FFF !important;
 }
+body {
+     background: #88D6D6;
+     
+}
+
+header.header.dark-bg {
+    background: #D02D21;
+}
+
+
+.post-title {color: black !important;}
+
+.delete-link  {background-color: gainsboro;}
+
+.zone-wrapper {background-color: #88D6D6;}
+
+.zone-wrapper postsListTop {background-color: #D02D21;}
+
+.zone-wrapper.nav.primary-nav { background-color: #FFF; }
+
+.zone-wrapper.nav.secondary-nav.desktop-nav.header-module.desktop-only {background: #FFF !important;}
+
+.submit-button.secondaryNav-module.header-submodule { background: #D02D21 !important;}
